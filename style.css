@@ -1,0 +1,19 @@
+html {
+  background-color: #fae3d9;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  text-align: center;
+}
+div {
+  padding: 10px;
+  background: ;
+}
+body {
+  background-image: url(https://d1q0twczwkl2ie.cloudfront.net/wp-content/uploads/2019/05/perfect-day-coco-cay-dare-devils-tower-racers-colorful-hero.jpg);
+  background-position: center;
+}
+form {
+  background: rgba(99, 101, 149, 0.8);
+  width: 500px;
+  align-items: center;
+   margin: auto;
+}
